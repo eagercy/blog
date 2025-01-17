@@ -1,4 +1,4 @@
-title:              Clean Blog
+title:              Curated Insights
 email:              eagercy@outlook.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
@@ -6,9 +6,9 @@ baseurl:            "/blog"
 url:                "https://eagercy.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   eagercy
+github_username:    eagercy
+facebook_username:  eagercy
 instagram_username:  
 linkedin_username:
 
