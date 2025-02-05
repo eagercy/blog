@@ -6,6 +6,17 @@ date: 2025-01-12
 categories: [Economy, Finance, Stock Market]
 background: '/img/posts/01.jpg'
 ---
+# Questions
+1. Is there any correlation between NU, EWZ, interest rate, inflation, and XLF/SPY
+    -- is there a realtionship between interest rate and inflation in Brazil? 
+    -- we'd expect to have negative correlation between interest rate and NU's earnings? 
+2. What are the historical PEG ratio for this stock, and how accurate are they? Can we plot a chart of predicted PEG vs actual PEG, or predicted earnings vs actual earnings? 
+3. Can we build a dashboard for analyzing this company or any company? 
+4. What are other sources of data i can use to perform analytics such as SMA, RSI, PEG, PE, etc. 
+5. When is it a good time to buy or add to NU given its moving averages, vs industry trends? 
+6. Does it have a good moat? 
+7. Is the management reliable? What does it mean? 
+
 
 # Brazil's Real vs. US Dollar: A 20-Year Comparison
 
@@ -25,7 +36,6 @@ The Real has experienced periods of both appreciation and depreciation, driven b
 - **2020-2025:** Stabilization post-COVID-19 economic recovery.
 
 **Graph 1:** *Historical exchange rate of the Brazilian Real vs. the US Dollar over the last 20 years.*
-![Historical exchange rate of the Brazilian Real vs. the US Dollar over the last 20 years.](/blog/img/posts/fred_bxus.png)
 <img src="/blog/img/posts/fred_bxus.png" alt="Description of Image" width="600" height="400">
 
 
